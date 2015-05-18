@@ -1,5 +1,4 @@
 .text
 .data
 
-final: .word 1 
-vinni gay viadaoALOW
+final: .word 1
