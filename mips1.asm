@@ -1,5 +1,5 @@
 .text
 .data
 
-final: .word 1 slkxsalkdjsdlkfj
-vinni gay viadao
+final: .word 1 
+vinni gay viadaoALOW
